@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="krb_navbar">
       <div className="krb_navbar-links">
         <div className="krb_navbar-links_container">
-          <p><a href="#home">Home</a></p>
+          <p><a href="#games">Games</a></p>
           <p><a href="#promotions">Promotions</a></p>
           <p><a href="#livecasino">Live Casino</a></p>
           <p><a href="#help">Help</a></p>
@@ -28,7 +28,7 @@ const Navbar = () => {
         {toggleMenu && (
         <div className="krb_navbar-menu_container scale-up-center">
           <div className="krb_navbar-menu_container-links">
-            <p><a href="#home">Home</a></p>
+            <p><a href="#games">Games</a></p>
             <p><a href="#promotions">Promotions</a></p>
             <p><a href="#livecasino">Live Casino</a></p>
             <p><a href="#help">Help</a></p>

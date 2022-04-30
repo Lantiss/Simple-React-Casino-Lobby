@@ -14,7 +14,6 @@ const Header = () => (
         video poker and even live casino.
       </p>
 
-
       <div className="krb_header-content__people">
         <img src={people} alt="People" />
         <p>1,600 people Online</p>
